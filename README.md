@@ -1,3 +1,11 @@
+
+
+<img width="1088" height="341" alt="image" src="https://github.com/user-attachments/assets/9521f292-df8a-4a49-84a5-c3be0f604752" />
+
+717b36228e22 
+<img width="538" height="81" alt="image" src="https://github.com/user-attachments/assets/74a81b45-2259-4fc4-8b38-eaf947ee1a50" />
+
+
 [9/21/2026 12:32 PM] Mirzabek Safaraliyev: DOCKER IMAGE
 [9/21/2026 12:32 PM] Mirzabek Safaraliyev: "
 PS C:\Users\User\docker_demo> docker build -t g58-demo-image .
