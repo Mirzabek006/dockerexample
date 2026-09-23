@@ -72,3 +72,5 @@ c6cb6efb7dab: Pushed
 8be48cf12016: Pushed 
 latest: digest: sha256:7e28049cb7274f266ef845c9a730a1acdc7a75609d42fc9ef7d72f31cc44a235 size: 856
 PS C:\Users\User\docker_demo>.DOCKER IMAGE yaratish va push qilish
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9d4652c1-0f18-4c86-a237-c9610a57e774" />
+
